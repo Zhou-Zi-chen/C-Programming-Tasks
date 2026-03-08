@@ -1,0 +1,4 @@
+﻿  Function.cpp
+D:\南大\程设\程序项目\2048大作业\周子晨_231240054.cpp\Function.cpp(20,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\南大\程设\程序项目\2048大作业\周子晨_231240054.cpp\Function.cpp(38,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2048.vcxproj -> D:\南大\程设\程序项目\2048大作业\周子晨_231240054.cpp\x64\Debug\2048.exe
